@@ -36,7 +36,7 @@ features = [
 st.set_page_config(page_title="DDoS & PortScan Detector", layout="centered")
 st.title("🛡️ DDoS & PortScan Intrusion Detection System")
 
-uploaded_file = st.file_uploader("📂 Upload a CIC-IDS CSV File", type=["csv"])
+uploaded_file = st.file_uploader("📂 Upload a CSV File", type=["csv"])
 
 if uploaded_file:
     try:
