@@ -2,6 +2,7 @@
 
 This project implements a lightweight Intrusion Detection System (IDS) to detect **DDoS** and **PortScan** attacks using a trained **Random Forest** model and a web-based GUI built with **Streamlit**.
 
+🚀 [Click here to try the live Streamlit App](https://ddos-detector-wglkx3b94wbqjagzezpn6v.streamlit.app/)
 ---
 
 ## Features
